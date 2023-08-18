@@ -7,9 +7,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 React
 
 ### Getting Started
-
 First, run the development server:
 
-`npm start
-# or
-yarn dev`
+```
+npm start
+```
