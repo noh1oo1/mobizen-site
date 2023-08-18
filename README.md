@@ -2,9 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## 기술 스택
 
-In the project directory, you can run:
+React
 
 ### `npm start`
 
