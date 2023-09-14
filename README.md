@@ -6,5 +6,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 First, run the development server:
 
 ```
+npm install
+```
+```
+npm install swiper
+```
+```
 npm start
 ```
